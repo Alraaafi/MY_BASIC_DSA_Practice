@@ -1,0 +1,3 @@
+Sollution is : 3 + 7 = 10
+Sollution is : 3 + 9 = 12
+Sollution is : 9 + 1 = 10
